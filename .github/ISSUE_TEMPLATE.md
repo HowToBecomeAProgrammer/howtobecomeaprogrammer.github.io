@@ -28,3 +28,6 @@ JavaScript:
 
 ##### MySQL:
 - [ ] [SQL Fiddle](http://sqlfiddle.com/)
+
+##### JavaScript:
+- [ ] [JS.do Online JavaScript Editor](https://js.do/)
