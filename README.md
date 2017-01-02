@@ -1,1 +1,1 @@
-# [How to become a programmer?](https://howtobecomeaprogrammer.github.io/)
+# [Руководство: Как стать PHP разработчиком](https://howtobecomeaprogrammer.github.io/)
