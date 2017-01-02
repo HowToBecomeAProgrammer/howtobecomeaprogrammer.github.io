@@ -19,3 +19,12 @@ JavaScript:
 ##### MySQL:
 С помощью уже существующего аккаунта GitHub можете авторизоваться на [HackerRank](https://www.hackerrank.com/login) и начать тестирование
 - [ ] [HackerRank MySQL](https://www.hackerrank.com/domains/sql/select)
+
+### Технологические "песочницы"
+##### PHP:
+- [ ] [Write PHP Online](http://www.writephponline.com/)
+- [ ] [PHP Sandbox](http://sandbox.onlinephpfunctions.com/)
+- [ ] [PHPTester](http://phptester.net/)
+
+##### MySQL:
+- [ ] [SQL Fiddle](http://sqlfiddle.com/)
