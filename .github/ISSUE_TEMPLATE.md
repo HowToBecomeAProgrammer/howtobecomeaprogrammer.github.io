@@ -1,14 +1,17 @@
 ### Видеоуроки:
-В самом начале достаточно понять HTML
+##### В самом начале достаточно понять HTML
 - [ ] [HTML для начинающих](https://youtu.be/8mK5aY5YOCc)
 
-Дальше курсы по PHP
+##### Дальше курсы по PHP
 - [ ] [PHP Видеокурс для начинающего из 10 уроков!](https://youtu.be/yy4uWmvDEAQ)
 
-MySQL:
+##### MySQL:
 - [ ] [LoftBlog SQL](https://loftblog.ru/material/1-vvedenie/)
 
-JavaScript:
+##### Git:
+- [ ] [Git - для новичков](https://youtu.be/PEKN8NtBDQ0)
+
+##### JavaScript:
 - [ ] [JavaScript для начинающих](https://youtu.be/xgDtBQ-NxtA)
 
 ### Учебники
