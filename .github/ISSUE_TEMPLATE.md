@@ -15,15 +15,15 @@
 - [ ] [JavaScript для начинающих](https://youtu.be/xgDtBQ-NxtA)
 
 ### Учебники
-JavaScript:
-- [ ] [Современный учебник Javascript](Современный учебник Javascript)
+##### JavaScript:
+- [ ] [Современный учебник Javascript](https://learn.javascript.ru/)
 
 ### Тестирование
 ##### MySQL:
 С помощью уже существующего аккаунта GitHub можете авторизоваться на [HackerRank](https://www.hackerrank.com/login) и начать тестирование
 - [ ] [HackerRank MySQL](https://www.hackerrank.com/domains/sql/select)
 
-### Технологические "песочницы"
+### Технологические песочницы
 ##### PHP:
 - [ ] [Write PHP Online](http://www.writephponline.com/)
 - [ ] [PHP Sandbox](http://sandbox.onlinephpfunctions.com/)
