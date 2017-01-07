@@ -18,6 +18,10 @@
 ##### JavaScript:
 - [ ] [Современный учебник Javascript](https://learn.javascript.ru/)
 
+### Курсы
+- [ ] [Интенсив по веб-разработке](https://geekbrains.ru/courses/110)
+- [ ] [Git. Быстрый старт](https://geekbrains.ru/courses/66)
+
 ### Тестирование
 ##### MySQL:
 С помощью уже существующего аккаунта GitHub можете авторизоваться на [HackerRank](https://www.hackerrank.com/login) и начать тестирование
