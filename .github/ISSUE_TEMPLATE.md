@@ -21,6 +21,8 @@
 ### Курсы
 - [ ] [Интенсив по веб-разработке](https://geekbrains.ru/courses/110)
 - [ ] [Git. Быстрый старт](https://geekbrains.ru/courses/66)
+- [ ] [Основы JavaScript](http://docode.ru/challenges/javascript-zakommentiruyte-kod)
+- [ ] [HTML5 и CSS](http://docode.ru/challenges/html5-pozdorovaytes-s-html-elementami)
 
 ### Тестирование
 ##### MySQL:
