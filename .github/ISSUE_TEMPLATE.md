@@ -28,6 +28,7 @@
 ##### MySQL:
 С помощью уже существующего аккаунта GitHub можете авторизоваться на [HackerRank](https://www.hackerrank.com/login) и начать [тестирование](https://www.hackerrank.com/domains)
 - [ ] [HackerRank MySQL](https://www.hackerrank.com/domains/sql/select)
+
 С помощью уже существующего аккаунта GitHub можете авторизоваться на [GeekBrains](https://geekbrains.ru/login) и начать [тестирование](https://geekbrains.ru/tests)
 - [ ] [PHP Начальный уровень](https://geekbrains.ru/tests/19)
 - [ ] [PHP Средний уровень](https://geekbrains.ru/tests/1)
