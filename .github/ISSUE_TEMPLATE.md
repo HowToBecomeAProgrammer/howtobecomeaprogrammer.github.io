@@ -32,10 +32,10 @@
 С помощью уже существующего аккаунта GitHub можете авторизоваться на [GeekBrains](https://geekbrains.ru/login) и начать [тестирование](https://geekbrains.ru/tests)
 - [ ] [PHP Начальный уровень](https://geekbrains.ru/tests/19)
 - [ ] [PHP Средний уровень](https://geekbrains.ru/tests/1)
-- [ ] [JavaScript Начальный уровень](https://geekbrains.ru/tests/21)
-- [ ] [JavaScript Сложный уровень](https://geekbrains.ru/tests/15)
-- [ ] [HTML&CSS Начальный уровень](https://geekbrains.ru/tests/2)
-- [ ] [HTML&CSS Средний уровень](https://geekbrains.ru/tests/17)
+- [ ] [JavaScript Начальный уровень](https://geekbrains.ru/tests/21) (есть сертификат)
+- [ ] [JavaScript Сложный уровень](https://geekbrains.ru/tests/15) (есть сертификат)
+- [ ] [HTML&CSS Начальный уровень](https://geekbrains.ru/tests/2) (есть сертификат)
+- [ ] [HTML&CSS Средний уровень](https://geekbrains.ru/tests/17) (есть сертификат)
 
 ### Технологические песочницы
 ##### PHP:
