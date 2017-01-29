@@ -13,6 +13,7 @@
 
 ##### JavaScript:
 - [ ] [JavaScript для начинающих](https://youtu.be/xgDtBQ-NxtA)
+- [ ] [Javascript-джедай](https://youtu.be/H6G63NKRSi8?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
 
 ### Учебники
 ##### JavaScript:
