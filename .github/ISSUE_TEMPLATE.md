@@ -19,6 +19,10 @@
 ##### JavaScript:
 - [ ] [Современный учебник Javascript](https://learn.javascript.ru/)
 
+### Tototial
+##### SQL:
+- [ ] [SQL Tutorial w3schools](http://www.w3schools.com/sql/default.asp)
+
 ### Курсы
 - [ ] [Интенсив по веб-разработке](https://geekbrains.ru/courses/110)
 - [ ] [Git. Быстрый старт](https://geekbrains.ru/courses/66)
