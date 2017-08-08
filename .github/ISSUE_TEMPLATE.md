@@ -42,6 +42,10 @@
 - [ ] [HTML&CSS Начальный уровень](https://geekbrains.ru/tests/2) (есть сертификат)
 - [ ] [HTML&CSS Средний уровень](https://geekbrains.ru/tests/17) (есть сертификат)
 
+[Skillotron](https://skillotron.com/)
+- [ ] [PHP](https://skillotron.com/skills/35)
+- [ ] [JavaScript](https://skillotron.com/skills/2)
+
 ### Технологические песочницы
 ##### PHP:
 - [ ] [Write PHP Online](http://www.writephponline.com/)
